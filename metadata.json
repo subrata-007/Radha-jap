@@ -1,0 +1,6 @@
+{
+  "name": "Radha Jap",
+  "description": "श्री राधा नाम जप काउंटर — 108 की माला, दैनिक संकल्प, शांत ध्यान मोड और कुल जप गणना",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

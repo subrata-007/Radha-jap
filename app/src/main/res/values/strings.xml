@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Radha Jap</string>
+    <string name="title_jap_counter">श्री राधा नाम जप</string>
+    <string name="chant_default">श्री राधा</string>
+    <string name="chant_radha_krishna">हरे कृष्ण हरे कृष्ण कृष्ण कृष्ण हरे हरे \nहरे राम हरे राम राम राम हरे हरे</string>
+    <string name="chant_radhe_radhe">राधे राधे</string>
+    <string name="chant_radha_govind">श्री राधा गोविन्द</string>
+</resources>
